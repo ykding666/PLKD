@@ -5,7 +5,8 @@ This repository contains the official PyTorch implementation for the paper **"Sy
 ## 📢 News & Updates
 
 * **[Currently Under Review]** Our manuscript is currently under review.
-* 🚀 **[Upcoming Release]** We are fully committed to reproducible research. The complete source code, pre-trained weights, and detailed evaluation instructions will be open-sourced **immediately (within two weeks) upon the acceptance of the paper**. Please stay tuned!
+* 🚀 **[Upcoming Release]** We are fully committed to reproducible research. The complete source code, pre-trained weights, and detailed evaluation instructions will be open-sourced **immediately (within two weeks) upon the acceptance of the paper**. Please stay tuned! -2026/03/12
+
 
 
 ## 📬 Contact
